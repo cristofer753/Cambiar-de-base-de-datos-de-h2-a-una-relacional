@@ -34,7 +34,8 @@ El archivo `application.properties` contiene la configuración necesaria para co
 
 ```properties
 
-![image](https://github.com/cristofer753/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/141539505/eaefe4f5-9829-4871-b86b-eb7895d8392a)
+![image](https://github.com/cristofer753/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/141539505/5d1480a3-df04-42d1-9550-db99cd898fdf)
+
 
 
 
