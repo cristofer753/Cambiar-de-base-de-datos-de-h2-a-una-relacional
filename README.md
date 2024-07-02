@@ -14,17 +14,17 @@ Esta es una aplicación de ejemplo para gestionar hoteles utilizando Spring Boot
 - Spring Data JPA
 - PostgreSQL
 
-###CAMBIOS
+### CAMBIOS
 
 Se cambio "seach" en HotelController, HotelService y en HotelServiceImpl ya que parecia ser un error tipográfico y se coloco "search"
 
-#Controller
+# Controller
 ![image](https://github.com/cristofer753/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/141539505/1a872a6c-c8a4-4215-83d1-84114eefd7d7)
 
-#Service
+# Service
 ![image](https://github.com/cristofer753/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/141539505/60cac381-d95c-466b-a658-0d5b7cd7a0cc)
 
-#ServiceImpl
+# ServiceImpl
 ![image](https://github.com/cristofer753/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/141539505/3028e079-cc7b-4de5-963c-94e247597daf)
 
 
