@@ -46,7 +46,7 @@ El archivo `application.properties` contiene la configuración necesaria para co
 
 ![image](https://github.com/cristofer753/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/141539505/ec2fb87b-2c37-4254-ad59-a15f9872c6fb)
 
-# Probando get en THUNDER CLIENT y en un BROWSER
+# Probando la conexion de mi base de datos con un GET en THUNDER CLIENT y en un BROWSER
 
 ![image](https://github.com/cristofer753/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/141539505/2831d477-8536-4ae1-8e69-2a0c2345b7ff)
 
