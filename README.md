@@ -32,8 +32,6 @@ Se cambio "seach" en HotelController, HotelService y en HotelServiceImpl ya que 
 
 El archivo `application.properties` contiene la configuración necesaria para conectar la aplicación a una base de datos PostgreSQL:
 
-```properties
-
 ![image](https://github.com/cristofer753/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/141539505/5d1480a3-df04-42d1-9550-db99cd898fdf)
 
 
